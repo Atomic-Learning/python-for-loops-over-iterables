@@ -1,0 +1,24 @@
+{
+    "title": "Python: For Loops Over Iterables",
+    "slug": "python-for-loops-over-iterables",
+    "description": "Python syntax for for loops over iterables, including indentation and execution order.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "python"
+    ],
+    "duration": 3,
+    "prerequisites": [
+        "programming-for-loops-introduction",
+        "python-lists-introduction",
+        "python-strings-introduction",
+        "python-comments"
+    ],
+    "related": [
+        "example-python-printing-vowels-from-string",
+        "python-range-in-for-loops",
+        "python-loop-variable-reassignment-vs-mutation",
+        "programming-accumulator-pattern"
+    ]
+}

@@ -1,0 +1,32 @@
+<h2>Basic Syntax</h2>
+<pre><code class="language-python">for item in iterable:
+    print(item)</code></pre>
+<p><code class="language-python">for</code> is the keyword that starts the loop. <code class="language-python">item</code> is the loop variable that takes on each value in turn from the iterable. <code class="language-python">item</code> and <code class="language-python">iterable</code> can be variables with any name. The keyword <code class="language-python">in</code> separates them. The colon starts the loop block, and indentation defines which lines run in each iteration.</p>
+
+<p>In Python you can loop over any iterable type, including lists and strings.</p>
+
+<h2>List Example</h2>
+
+<p>In this example, we loop over a list of numbers, printing the value of each item in the list:</p>
+
+<py-cell>my_list = [1, 2, 4, 5]
+for item in my_list:
+    print("Start of iteration")
+    print(item)
+print("All done")</py-cell>
+
+<h2>String Example</h2>
+
+<p>In this example, we loop over a string, printing each character:</p>
+
+<py-cell>my_string = "Hello"
+for char in my_string:
+    print(char)</py-cell>
+
+<h2>Execution Order</h2>
+<ol>
+  <li>Take the next value from the iterable.</li>
+  <li>Assign it to the loop variable.</li>
+  <li>Run all indented lines.</li>
+  <li>Move to the next value, or finish if none remain.</li>
+</ol>
