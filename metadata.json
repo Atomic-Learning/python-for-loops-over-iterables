@@ -10,7 +10,7 @@
     ],
     "duration": 3,
     "prerequisites": [
-        "programming-for-loops-introduction",
+        "programming-for-loops",
         "python-lists-introduction",
         "python-strings-introduction",
         "python-comments"
