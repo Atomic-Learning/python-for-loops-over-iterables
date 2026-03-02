@@ -12,8 +12,7 @@
     "prerequisites": [
         "programming-for-loops",
         "python-lists-introduction",
-        "python-strings-introduction",
-        "python-comments"
+        "python-strings-introduction"
     ],
     "related": [
         "example-python-printing-vowels-from-string",
