@@ -19,6 +19,8 @@
         "example-python-printing-vowels-from-string",
         "python-range-in-for-loops",
         "python-loop-variable-reassignment-vs-mutation",
-        "programming-accumulator-pattern"
+        "programming-accumulator-pattern",
+        "python-loop-control",
+        "python-nested-for-loops"
     ]
 }
