@@ -8,17 +8,18 @@
     "tags": [
         "python"
     ],
-    "duration": 3,
+    "duration": 4,
     "prerequisites": [
-        "programming-for-loops-introduction",
+        "programming-for-loops",
         "python-lists-introduction",
-        "python-strings-introduction",
-        "python-comments"
+        "python-strings-introduction"
     ],
     "related": [
         "example-python-printing-vowels-from-string",
         "python-range-in-for-loops",
         "python-loop-variable-reassignment-vs-mutation",
-        "programming-accumulator-pattern"
+        "programming-accumulator-pattern",
+        "python-loop-control",
+        "python-nested-for-loops"
     ]
 }
